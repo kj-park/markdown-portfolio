@@ -6,7 +6,7 @@ layout: default
 
 <table>
     <tr>
-        <td><img src="images/kj-park+profile.svg" height="150px" width="150px"></td></tr>
+        <td><img src="images/kj-park+profile.svg" height="200px" width="200px"></td></tr>
     <tr><td>
             <h1><span class="full-name" style="padding:0;margin:0;">Kyoung Joon Park</span></h1>
             <p class="title" style="padding:0;margin:0;">Expert for Microsoft 365</p>
