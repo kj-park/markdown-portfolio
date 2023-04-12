@@ -16,7 +16,7 @@ layout: default
             </dl>
             <p></p>
             <p style="font-size:1rem" style="padding:0;margin:0;">I've spent decades working on designing, deploying, technical supporting Microsoft Windows Server and Exchange, including the Microsoft Back-Office Products.<br />
-                <b>And now I'm working as a Microsoft 365 expert.</b></p>
+                <b>And, now I'm working as a Microsoft 365 expert.</b></p>
             <p style="font-size:1rem" style="padding:0;margin:0;">And, I love powershell...</p>
         </td>
     </tr>
