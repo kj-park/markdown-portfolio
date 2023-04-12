@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# TECH
+# Technical Readiness
 
 Sharing the Technology to everyone who want to know.
