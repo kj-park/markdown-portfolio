@@ -8,8 +8,8 @@ layout: default
 
 - [Active Directory](AD)
 
-- [Scripting](Scripting)
-
 - [Exchange](Exchange)
+
+- [Scripting](Scripting)
 
 - [Etc](Etc) 
