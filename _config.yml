@@ -3,3 +3,26 @@ description: [This Site is for sharing my technical careers and my project portf
 theme: jekyll-theme-cayman
 timezone: Asia/Seoul
 encoding: utf-8
+defaults:
+    - 
+        scope:
+            path: "posts"
+            type: "posts"
+        values:
+            layout: "default"
+            category: "posts"
+    -
+        scope:
+            path: "projects"
+            type: "projects"
+        values:
+            layout: "default"
+            author: "kj-park"
+            category: "projects"
+    -
+        scope:
+            path: "pages"
+            type: "pages"
+        values:
+            layout: "default"
+            category: "pages"
