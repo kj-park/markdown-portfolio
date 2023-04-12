@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Abount Me
+# About Me
 
 <table>
     <tr>
