@@ -2,4 +2,4 @@
 layout: default
 ---
 
-{% include /README.md %}
+{% include README.md %}
