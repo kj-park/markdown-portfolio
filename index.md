@@ -2,6 +2,14 @@
 layout: default
 ---
 
-# Technical Readiness
+# Table of Contents
 
-Sharing the Technology to everyone who want to know.
+- [Microsoft 365](Microsoft365)
+
+- [Active Directory](AD)
+
+- [Scripting](Scripting)
+
+- [Exchange](Exchange)
+
+- [Etc](Etc) 
